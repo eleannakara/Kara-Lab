@@ -1,0 +1,4 @@
+To map between figures in the paper and code that was used to collect the shown data, please see Code_Figure_Index.xlsx.
+
+Disclaimer:
+Each folder corresponds to either an experiment or is a piece of global code that analyzes a specific metric that was important across experiments. Test images are images the code was used on, but are not the only type of images that were analyzed with the code files.
