@@ -1,1 +1,14 @@
-To use the script drag the word document into this folder and rename it to "text.docx" and it will be outputed as "new_text.docx"
+How to Use the Script
+
+Prepare the Document:
+Drag and drop the Word document you want to process into this folder.
+
+Rename the Document:
+Rename the document to text.docx.
+
+Run the Script:
+The script will automatically process the file and output a new file named new_text.docx in the same folder.
+
+Description:
+
+This script processes a Word document by scanning through its content and checking if any of the words in the document match a predefined list of target words. When a match is found, the script automatically highlights the word in red, making it easy to identify. The end result is a modified document with all matching words clearly marked in red, which helps users quickly review and edit the document based on the specified list of words.
