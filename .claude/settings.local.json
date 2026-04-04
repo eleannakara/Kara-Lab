@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo view sunghoojung/segment-classify-pipeline --json description,defaultBranchRef)",
+      "Bash(gh api repos/sunghoojung/segment-classify-pipeline/git/trees/HEAD?recursive=1 --jq '.tree[].path')",
+      "WebFetch(domain:github.com)",
+      "Bash(python -:*)",
+      "Bash(python)",
+      "Bash(python -c ':*)"
+    ]
+  }
+}
